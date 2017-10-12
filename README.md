@@ -1,1 +1,1 @@
-"# dotnetcore-docker" 
+# dotnetcore-docker
